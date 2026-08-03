@@ -1,0 +1,27 @@
+ecommerce-data-platform/
+
+├── .github/
+│   └── workflows/
+
+├── backend/
+
+├── frontend/
+
+├── etl/
+
+├── database/
+│   ├── saas/
+│   ├── raw/
+│   └── warehouse/
+
+├── docker/
+
+├── docs/
+│   ├── architecture.md
+│   └── database-design.md
+
+├── .gitignore
+
+├── docker-compose.yml
+
+└── README.md

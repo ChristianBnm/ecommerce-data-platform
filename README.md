@@ -1,0 +1,1 @@
+Plataforma SaaS Full Stack de inteligencia de negocio que integra datos empresariales mediante procesos ETL para centralizar información de ventas, marketing, inventario y operaciones, generando dashboards y KPIs para la toma de decisiones.
